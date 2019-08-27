@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Study.Domain", "EntityFramework.Study.Domain\EntityFramework.Study.Domain.csproj", "{56E4015D-61E5-445B-9958-31FC59AA8E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Study.Test", "EntityFramework.Study.Test\EntityFramework.Study.Test.csproj", "{5CD66C8B-9354-4865-8B89-8D84F7B179F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E4015D-61E5-445B-9958-31FC59AA8E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E4015D-61E5-445B-9958-31FC59AA8E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E4015D-61E5-445B-9958-31FC59AA8E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E4015D-61E5-445B-9958-31FC59AA8E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD66C8B-9354-4865-8B89-8D84F7B179F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD66C8B-9354-4865-8B89-8D84F7B179F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD66C8B-9354-4865-8B89-8D84F7B179F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD66C8B-9354-4865-8B89-8D84F7B179F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
